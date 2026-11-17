@@ -1,4 +1,4 @@
-# 🚀 Finorex
+# 🚀 Finora
 
 **Finora** is a modern accounting and expense management desktop app developed by [A___R Developers](https://github.com/Ammar1562).  
 Built with **React**, **Electron**, and **Tailwind CSS**, it brings powerful finance tools to your desktop with a clean UI and blazing fast performance.
